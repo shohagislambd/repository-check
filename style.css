@@ -236,7 +236,7 @@ h1,h2,h3,p,a{
     .blog-left nav ul li a {
         border: 1px solid #e1e1e1;
         padding: 10px 20px;
-        margin: 0px 20px;
+        margin: 0px 17px;
         border-radius: 10px;
     }
     #blog-area .blog-left nav ul li.active {
