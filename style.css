@@ -269,7 +269,7 @@ h1,h2,h3,p,a{
         text-align: center;
     }
     #footer-area nav ul li {
-        display: block;
+        display: block!important
     }
 }
 /*Mobile Responsive CSS End*/
