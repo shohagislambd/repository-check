@@ -268,5 +268,8 @@ h1,h2,h3,p,a{
     #blog-area a {
         text-align: center;
     }
+    #footer-area nav ul li {
+        display: block;
+    }
 }
 /*Mobile Responsive CSS End*/
